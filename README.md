@@ -27,3 +27,9 @@ yarn lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+
+## Git Branches
+### main deployment branch - `main`
+### pre-deployment branch - `ua`
+### development branch - `dev`
